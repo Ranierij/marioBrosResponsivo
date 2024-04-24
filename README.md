@@ -27,5 +27,5 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 ## 📝 Tema de casa
 
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
+- [x] Criar responsividade
+- [x] Adicionar efeito de hover nos botões
